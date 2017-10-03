@@ -1,0 +1,23 @@
+{
+  "name": "@rowanmanning/eslint-config",
+  "version": "0.0.0",
+  "description": "Shared linter configurations for my projects",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Rowan Manning (http://rowanmanning.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rowanmanning/eslint-config.git"
+  },
+  "homepage": "https://github.com/rowanmanning/eslint-config",
+  "bugs": "https://github.com/rowanmanning/eslint-config/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "peerDependencies": {
+    "eslint": ">=4"
+  },
+  "main": "./es2017"
+}
