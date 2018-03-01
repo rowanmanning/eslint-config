@@ -12,7 +12,7 @@ Install with:
 npm install --save-dev @rowanmanning/eslint-config
 ```
 
-Add one following to your `.eslintrc` file.
+Add one of the following to your `.eslintrc` file.
 
 For modern JavaScript syntax which uses `async`/`await` (Node.js 8+):
 
