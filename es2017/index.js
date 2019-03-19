@@ -22,6 +22,7 @@ module.exports = {
 		before: true,
 		beforeEach: true,
 		describe: true,
+		expect: true,
 		it: true
 	},
 
