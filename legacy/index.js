@@ -20,7 +20,8 @@ module.exports = {
 		beforeEach: true,
 		describe: true,
 		expect: true,
-		it: true
+		it: true,
+		jest: true
 	},
 
 	// The lint rules
