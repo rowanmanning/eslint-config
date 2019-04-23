@@ -15,8 +15,10 @@ module.exports = {
 	// Allowed global variables
 	globals: {
 		after: true,
+		afterAll: true,
 		afterEach: true,
 		before: true,
+		beforeAll: true,
 		beforeEach: true,
 		describe: true,
 		expect: true,
