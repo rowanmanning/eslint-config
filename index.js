@@ -7,21 +7,8 @@ module.exports = {
 	env: {
 		es2020: true,
 		browser: true,
-		node: true
-	},
-
-	// Allowed global variables
-	globals: {
-		after: true,
-		afterAll: true,
-		afterEach: true,
-		before: true,
-		beforeAll: true,
-		beforeEach: true,
-		describe: true,
-		expect: true,
-		it: true,
-		jest: true
+		node: true,
+		mocha: true
 	},
 
 	// The lint rules
