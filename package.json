@@ -18,5 +18,8 @@
   },
   "peerDependencies": {
     "eslint": ">=7"
+  },
+  "dependencies": {
+    "eslint-plugin-react": "^7.21.5"
   }
 }

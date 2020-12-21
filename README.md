@@ -12,11 +12,22 @@ Install with:
 npm install --save-dev @rowanmanning/eslint-config
 ```
 
-Add one of the following to your `.eslintrc` file:
+Add this to your `.eslintrc` file:
 
 ```json
 {
     "extends": "@rowanmanning/eslint-config"
+}
+```
+
+If your project uses JSX via Preact, add this instead:
+
+```json
+{
+    "extends": [
+        "@rowanmanning/eslint-config",
+        "@rowanmanning/eslint-config/jsx"
+    ]
 }
 ```
 
