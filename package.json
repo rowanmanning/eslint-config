@@ -14,10 +14,9 @@
   "bugs": "https://github.com/rowanmanning/eslint-config/issues",
   "license": "MIT",
   "engines": {
-    "node": ">=4"
+    "node": ">=14"
   },
   "peerDependencies": {
-    "eslint": ">=5"
-  },
-  "main": "./es2018"
+    "eslint": ">=7"
+  }
 }
