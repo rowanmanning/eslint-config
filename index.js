@@ -11,6 +11,12 @@ module.exports = {
 		mocha: true
 	},
 
+	// Ignore patterns
+	ignorePatterns: [
+		'.nyc_output',
+		'coverage'
+	],
+
 	// The lint rules
 	extends: 'eslint:recommended',
 	rules: {
