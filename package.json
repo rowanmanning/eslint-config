@@ -5,7 +5,7 @@
   "keywords": [
     "eslint"
   ],
-  "author": "Rowan Manning (http://rowanmanning.com/)",
+  "author": "Rowan Manning (https://rowanmanning.com/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/rowanmanning/eslint-config.git"
@@ -14,7 +14,8 @@
   "bugs": "https://github.com/rowanmanning/eslint-config/issues",
   "license": "MIT",
   "engines": {
-    "node": ">=14"
+    "node": ">=14",
+    "npm": ">=7"
   },
   "peerDependencies": {
     "eslint": ">=7"
