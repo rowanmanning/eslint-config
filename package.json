@@ -22,5 +22,9 @@
   },
   "dependencies": {
     "eslint-plugin-react": "^7.21.5"
+  },
+  "scripts": {
+    "project:verify": "npx --yes @rowanmanning/validate-project --type git node-library",
+    "project:fix": "npx --yes @rowanmanning/validate-project --type git node-library --fix"
   }
 }
