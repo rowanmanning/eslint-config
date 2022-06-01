@@ -17,8 +17,16 @@ module.exports = {
 		'coverage'
 	],
 
+	// Plugins
+	plugins: [
+		'jsdoc'
+	],
+
 	// The lint rules
-	extends: 'eslint:recommended',
+	extends: [
+		'eslint:recommended',
+		"plugin:jsdoc/recommended"
+	],
 	rules: {
 
 		// Possible Errors
@@ -355,6 +363,16 @@ module.exports = {
 		'yield-star-spacing': [
 			'error',
 			'before'
-		]
+		],
+
+		// JSDoc
+		'jsdoc/check-access': 'error',
+		'jsdoc/require-description-complete-sentence': 'error'
+	},
+
+	settings: {
+		jsdoc: {
+			mode: 'typescript'
+		}
 	}
 };
