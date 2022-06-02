@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.0.2](https://github.com/rowanmanning/eslint-config/compare/v4.0.1...v4.0.2) (2022-06-02)
+
+
+### Bug Fixes
+
+* remove max-nested-callbacks rule ([f0cf640](https://github.com/rowanmanning/eslint-config/commit/f0cf640a966762e8985b17e95ee1b19b97c26415))
+* remove no-magic-numbers rule ([00d627e](https://github.com/rowanmanning/eslint-config/commit/00d627e77d5c619841bc22b2649f6bff2cd9d2ff))
+
 ## [4.0.1](https://github.com/rowanmanning/eslint-config/compare/v4.0.0...v4.0.1) (2022-06-02)
 
 
