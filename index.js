@@ -40,7 +40,7 @@ module.exports = {
 		'no-unreachable-loop': 'error',
 		'no-unsafe-negation': 'error',
 		'no-unsafe-optional-chaining': 'error',
-		'no-unused-private-class-members': 'warning',
+		'no-unused-private-class-members': 'warn',
 		'require-atomic-updates': 'error',
 
 		// Suggestions
