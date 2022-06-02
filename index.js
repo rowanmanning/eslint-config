@@ -94,7 +94,6 @@ module.exports = {
 		'no-lone-blocks': 'error',
 		'no-lonely-if': 'error',
 		'no-loop-func': 'error',
-		'no-magic-numbers': 'warn',
 		'no-mixed-operators': 'error',
 		'no-multi-str': 'error',
 		'no-negated-condition': 'error',
