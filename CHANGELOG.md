@@ -1,5 +1,24 @@
 # Changelog
 
+## [4.0.0](https://github.com/rowanmanning/eslint-config/compare/v3.5.0...v4.0.0) (2022-06-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* add JSDoc linting
+
+### Features
+
+* add JSDoc linting ([6a4aa66](https://github.com/rowanmanning/eslint-config/commit/6a4aa661cbb41c412786af9deb333d50c546182f))
+
+
+### Miscellaneous
+
+* bump @commitlint/cli from 17.0.0 to 17.0.1 ([f30ca5a](https://github.com/rowanmanning/eslint-config/commit/f30ca5a078f2537ad41900394e4e25db201b4dfa))
+* bump @commitlint/cli from 17.0.1 to 17.0.2 ([ad76120](https://github.com/rowanmanning/eslint-config/commit/ad761209a551cbd02b36705565382ac37117f4b1))
+* bump @commitlint/config-conventional from 17.0.0 to 17.0.2 ([0bbd7aa](https://github.com/rowanmanning/eslint-config/commit/0bbd7aa446a4da88cc9861eebc1fd38793c76ef9))
+* reorder and tidy up rules ([3f155e8](https://github.com/rowanmanning/eslint-config/commit/3f155e8136afa54cc4fa0c7d070b5b04853f3b24))
+
 ## [3.5.0](https://github.com/rowanmanning/eslint-config/compare/v3.4.0...v3.5.0) (2022-05-20)
 
 
