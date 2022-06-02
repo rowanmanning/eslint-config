@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.1](https://github.com/rowanmanning/eslint-config/compare/v4.0.0...v4.0.1) (2022-06-02)
+
+
+### Bug Fixes
+
+* correct a mis-typed rule ([9cbb1a8](https://github.com/rowanmanning/eslint-config/commit/9cbb1a83fff364c274d186aaf352214a960039d3))
+
 ## [4.0.0](https://github.com/rowanmanning/eslint-config/compare/v3.5.0...v4.0.0) (2022-06-02)
 
 
