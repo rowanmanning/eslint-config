@@ -65,7 +65,6 @@ module.exports = {
 		'id-length': ['error', {min: 2, exceptions: ['_', '$', 'i', 'h']}],
 		'id-match': 'error',
 		'max-depth': ['warn', {max: 3}],
-		'max-nested-callbacks': ['warn', {max: 3}],
 		'max-params': ['warn', {max: 4}],
 		'max-statements-per-line': ['error', {max: 2}],
 		'new-cap': 'error',
