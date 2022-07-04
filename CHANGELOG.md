@@ -1,5 +1,19 @@
 # Changelog
 
+## [4.0.3](https://github.com/rowanmanning/eslint-config/compare/v4.0.2...v4.0.3) (2022-07-04)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-jsdoc from 39.3.2 to 39.3.3 ([080c520](https://github.com/rowanmanning/eslint-config/commit/080c5204214e8485c38ddf63682e106a7df30de6))
+* bump eslint-plugin-react from 7.30.0 to 7.30.1 ([9be90b2](https://github.com/rowanmanning/eslint-config/commit/9be90b2bda5698a4a33da0b2899a006216863faf))
+
+
+### Miscellaneous
+
+* bump @commitlint/cli from 17.0.2 to 17.0.3 ([a99991d](https://github.com/rowanmanning/eslint-config/commit/a99991d78be37dc10a0f4caac138629fb97f53a7))
+* bump @commitlint/config-conventional from 17.0.2 to 17.0.3 ([b76343c](https://github.com/rowanmanning/eslint-config/commit/b76343cc11e2c85bc1023a6c79cbe8978d5e3d0f))
+
 ## [4.0.2](https://github.com/rowanmanning/eslint-config/compare/v4.0.1...v4.0.2) (2022-06-02)
 
 
