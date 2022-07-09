@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.4](https://github.com/rowanmanning/eslint-config/compare/v4.0.3...v4.0.4) (2022-07-09)
+
+
+### Bug Fixes
+
+* hide the misc changelog section ([83d370a](https://github.com/rowanmanning/eslint-config/commit/83d370a23753d7f3de4397d986af4e86714bec91))
+
 ## [4.0.3](https://github.com/rowanmanning/eslint-config/compare/v4.0.2...v4.0.3) (2022-07-04)
 
 
