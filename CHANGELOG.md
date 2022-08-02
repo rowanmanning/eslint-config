@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.5](https://github.com/rowanmanning/eslint-config/compare/v4.0.4...v4.0.5) (2022-08-02)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-jsdoc from 39.3.3 to 39.3.4 ([d998bd7](https://github.com/rowanmanning/eslint-config/commit/d998bd7dcbe9eb4b98657af84ad292906a9f7ae9))
+
 ## [4.0.4](https://github.com/rowanmanning/eslint-config/compare/v4.0.3...v4.0.4) (2022-07-09)
 
 
