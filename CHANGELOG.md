@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.7](https://github.com/rowanmanning/eslint-config/compare/v4.0.6...v4.0.7) (2022-09-24)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-react from 7.31.7 to 7.31.8 ([597ec41](https://github.com/rowanmanning/eslint-config/commit/597ec4199877be6a9b335be96a347fb3856366d1))
+
 ## [4.0.6](https://github.com/rowanmanning/eslint-config/compare/v4.0.5...v4.0.6) (2022-09-06)
 
 
