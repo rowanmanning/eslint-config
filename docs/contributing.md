@@ -38,3 +38,32 @@ Contributing to this project **does not**:
 To contribute to this project's code, clone this repo locally and commit your work on a separate branch. Open a pull-request to get your changes merged. If you're doing any large feature work, please make sure to have a discussion in an issue first – I'd rather not waste your time if it's not a feature I want to add to this project 🙂
 
 I don't offer any guarantees on how long it will take me to review a PR or respond to an issue, [as outlined here](#what-you-can-expect-from-me).
+
+### Committing
+
+Commit messages must be written using [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/). This is how our [release system](https://github.com/googleapis/release-please#readme) knows what a given commit means.
+
+```
+<type>: <description>
+
+[body]
+```
+
+The `type` can be any of `feat`, `fix`, `docs` or `chore`.
+
+The prefix is used to calculate the [Semantic Versioning](https://semver.org/) release:
+
+| **type**  | when to use                                            | release level |
+| --------- | ------------------------------------------------------ | ------------- |
+| feat      | a feature has been added                               | `minor`       |
+| fix       | a bug has been patched                                 | `patch`       |
+| docs      | a change to documentation                              | `patch`       |
+| chore     | repo maintenance and support tasks                     | none          |
+
+Indicate a breaking change by placing an `!` between the type name and the colon, e.g.
+
+```
+feat!: add a breaking feature
+```
+
+We use [commitlint](https://commitlint.js.org/) to enforce these commit messages.
