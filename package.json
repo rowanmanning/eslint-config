@@ -1,6 +1,6 @@
 {
   "name": "@rowanmanning/eslint-config",
-  "version": "4.0.7",
+  "version": "4.0.8",
   "description": "Shared linter configurations for my projects",
   "keywords": [
     "eslint"
