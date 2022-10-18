@@ -11,6 +11,13 @@ module.exports = {
 		mocha: true
 	},
 
+	// Parser config
+	parser: '@babel/eslint-parser',
+	parserOptions: {
+		requireConfigFile: false,
+		sourceType: 'script'
+	},
+
 	// Ignore patterns
 	ignorePatterns: [
 		'.nyc_output',
