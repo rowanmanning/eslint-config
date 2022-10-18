@@ -1,5 +1,16 @@
 # Changelog
 
+## [5.0.0](https://github.com/rowanmanning/eslint-config/compare/v4.0.8...v5.0.0) (2022-10-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* use the Babel parser
+
+### Features
+
+* use the Babel parser ([7621696](https://github.com/rowanmanning/eslint-config/commit/7621696deef5d670c7e3616b4f89aa5932e00c78))
+
 ## [4.0.8](https://github.com/rowanmanning/eslint-config/compare/v4.0.7...v4.0.8) (2022-10-18)
 
 
