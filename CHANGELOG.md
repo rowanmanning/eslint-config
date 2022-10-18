@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/rowanmanning/eslint-config/compare/v5.0.0...v5.0.1) (2022-10-18)
+
+
+### Bug Fixes
+
+* correct the JSX config ([d0f9210](https://github.com/rowanmanning/eslint-config/commit/d0f92101b3f9a035271cdc0383bd80ed50241870))
+
 ## [5.0.0](https://github.com/rowanmanning/eslint-config/compare/v4.0.8...v5.0.0) (2022-10-18)
 
 
