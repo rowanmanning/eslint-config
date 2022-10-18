@@ -3,10 +3,15 @@
 // Export ESLint config
 module.exports = {
 
-	// Enable JSX
+	// Parser config
 	parserOptions: {
 		ecmaFeatures: {
 			jsx: true
+		},
+		babelOptions: {
+			presets: [
+				'@babel/preset-react'
+			]
 		}
 	},
 
