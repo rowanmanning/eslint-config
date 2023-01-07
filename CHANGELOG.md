@@ -1,5 +1,13 @@
 # Changelog
 
+## [5.0.5](https://github.com/rowanmanning/eslint-config/compare/v5.0.4...v5.0.5) (2023-01-07)
+
+
+### Bug Fixes
+
+* bump @babel/core from 7.20.7 to 7.20.12 ([b12a2d8](https://github.com/rowanmanning/eslint-config/commit/b12a2d885195184741218e9073c1658c8c4883a0))
+* bump json5 from 2.2.1 to 2.2.3 ([83c39ec](https://github.com/rowanmanning/eslint-config/commit/83c39ecf09b3a3dc88f90451fedbc5c03d8a17e3))
+
 ## [5.0.4](https://github.com/rowanmanning/eslint-config/compare/v5.0.3...v5.0.4) (2022-12-23)
 
 
