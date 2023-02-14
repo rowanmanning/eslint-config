@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.8](https://github.com/rowanmanning/eslint-config/compare/v5.0.7...v5.0.8) (2023-02-14)
+
+
+### Bug Fixes
+
+* support npm v9 ([c2830a3](https://github.com/rowanmanning/eslint-config/commit/c2830a3d5209d6c961d4e95c50bc3916b24fc143))
+
 ## [5.0.7](https://github.com/rowanmanning/eslint-config/compare/v5.0.6...v5.0.7) (2023-02-14)
 
 
