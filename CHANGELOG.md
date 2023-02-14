@@ -1,5 +1,16 @@
 # Changelog
 
+## [5.0.7](https://github.com/rowanmanning/eslint-config/compare/v5.0.6...v5.0.7) (2023-02-14)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-jsdoc from 39.6.8 to 39.7.4 ([79566f7](https://github.com/rowanmanning/eslint-config/commit/79566f78d0408243a5299509121488ef4b6020ee))
+* bump eslint-plugin-jsdoc from 39.7.4 to 39.7.5 ([b12d3e5](https://github.com/rowanmanning/eslint-config/commit/b12d3e5ed842b74949c27e572e9615f42a6f7e04))
+* bump eslint-plugin-jsdoc from 39.7.5 to 39.8.0 ([1cf4cc3](https://github.com/rowanmanning/eslint-config/commit/1cf4cc32ca1c5c2536d58bb819f9fc4ad9fcfa2f))
+* bump eslint-plugin-jsdoc from 39.8.0 to 40.0.0 ([7e56a36](https://github.com/rowanmanning/eslint-config/commit/7e56a368e8b3abb8390730b28f1f73d52c35f243))
+* bump eslint-plugin-react from 7.32.1 to 7.32.2 ([ad36738](https://github.com/rowanmanning/eslint-config/commit/ad367383b8c74ebdd55a7c5934be9d0f5727f80d))
+
 ## [5.0.6](https://github.com/rowanmanning/eslint-config/compare/v5.0.5...v5.0.6) (2023-01-26)
 
 
