@@ -16,7 +16,7 @@ A shared [ESLint](https://eslint.org/) config for my open source projects.
 
 This library requires the following to run:
 
-  * [Node.js](https://nodejs.org/) 14+
+  * [Node.js](https://nodejs.org/) 16+
 
 
 ## Usage
