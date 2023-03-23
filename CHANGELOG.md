@@ -1,5 +1,15 @@
 # Changelog
 
+## [5.0.9](https://github.com/rowanmanning/eslint-config/compare/v5.0.8...v5.0.9) (2023-03-23)
+
+
+### Bug Fixes
+
+* bump @babel/core from 7.20.12 to 7.21.0 ([5fea816](https://github.com/rowanmanning/eslint-config/commit/5fea816c489e53f192d0c7e80b6d16ba9f600023))
+* bump @babel/core from 7.21.0 to 7.21.3 ([ebf5b49](https://github.com/rowanmanning/eslint-config/commit/ebf5b4931bd8440baef3189bc8d34fe2d9cadf03))
+* bump @babel/eslint-parser from 7.19.1 to 7.21.3 ([7ce43a6](https://github.com/rowanmanning/eslint-config/commit/7ce43a68661ca41958e618d86e62b466194440c8))
+* bump eslint-plugin-jsdoc from 40.0.0 to 40.1.0 ([1f7a0f5](https://github.com/rowanmanning/eslint-config/commit/1f7a0f53c53948d7a31d6d49d1ef931ee598a482))
+
 ## [5.0.8](https://github.com/rowanmanning/eslint-config/compare/v5.0.7...v5.0.8) (2023-02-14)
 
 
