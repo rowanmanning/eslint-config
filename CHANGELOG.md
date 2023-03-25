@@ -1,5 +1,18 @@
 # Changelog
 
+## [6.0.0](https://github.com/rowanmanning/eslint-config/compare/v5.0.9...v6.0.0) (2023-03-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop official support for npm v7
+* drop support for Node.js 14
+
+### Miscellaneous
+
+* drop official support for npm v7 ([58b3914](https://github.com/rowanmanning/eslint-config/commit/58b3914f7e12a1b9a1296a20c86c1286a8039b0b))
+* drop support for Node.js 14 ([7495d8f](https://github.com/rowanmanning/eslint-config/commit/7495d8fe305b76255860b960c779c0376e6fa7bb))
+
 ## [5.0.9](https://github.com/rowanmanning/eslint-config/compare/v5.0.8...v5.0.9) (2023-03-23)
 
 
