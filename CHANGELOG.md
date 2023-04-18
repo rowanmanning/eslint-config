@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.0.2](https://github.com/rowanmanning/eslint-config/compare/v6.0.1...v6.0.2) (2023-04-18)
+
+
+### Bug Fixes
+
+* add support for Node.js 20 ([7b2bb7f](https://github.com/rowanmanning/eslint-config/commit/7b2bb7fc9867f25676924b8ce46ad26d9c864d7d))
+
 ## [6.0.1](https://github.com/rowanmanning/eslint-config/compare/v6.0.0...v6.0.1) (2023-04-18)
 
 
