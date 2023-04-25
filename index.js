@@ -210,6 +210,7 @@ module.exports = {
 		// https://github.com/gajus/eslint-plugin-jsdoc#readme
 		'jsdoc/check-access': 'error',
 		'jsdoc/require-description-complete-sentence': 'error',
+		"jsdoc/tag-lines": ["warn", "any", { "startLines": 1 }]
 
 	},
 
