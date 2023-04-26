@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.0.3](https://github.com/rowanmanning/eslint-config/compare/v6.0.2...v6.0.3) (2023-04-26)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-jsdoc from 41.1.2 to 43.1.1 ([dea92b5](https://github.com/rowanmanning/eslint-config/commit/dea92b5c2e287e4f5935044d8b5c44b84069b8e4))
+
 ## [6.0.2](https://github.com/rowanmanning/eslint-config/compare/v6.0.1...v6.0.2) (2023-04-18)
 
 
