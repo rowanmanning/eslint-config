@@ -212,11 +212,5 @@ module.exports = {
 		'jsdoc/require-description-complete-sentence': 'error',
 		"jsdoc/tag-lines": ["warn", "any", { "startLines": 1 }]
 
-	},
-
-	settings: {
-		jsdoc: {
-			mode: 'typescript'
-		}
 	}
 };
