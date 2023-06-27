@@ -1,5 +1,21 @@
 # Changelog
 
+## [7.0.0](https://github.com/rowanmanning/eslint-config/compare/v6.0.4...v7.0.0) (2023-06-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* bump eslint-plugin-jsdoc from 44.2.4 to 46.3.0
+
+### Bug Fixes
+
+* bump @babel/core from 7.21.8 to 7.22.1 ([39a4b0e](https://github.com/rowanmanning/eslint-config/commit/39a4b0eb878ea7904fe43a2a920a019f9366777c))
+* bump @babel/core from 7.22.1 to 7.22.5 ([16dcf14](https://github.com/rowanmanning/eslint-config/commit/16dcf145d29d96862d1c21106994a4393c87884d))
+* bump @babel/eslint-parser from 7.21.8 to 7.22.5 ([954361d](https://github.com/rowanmanning/eslint-config/commit/954361da009b889a095356ecc703ad79ef3b69e2))
+* bump @babel/preset-react from 7.18.6 to 7.22.3 ([a00b40e](https://github.com/rowanmanning/eslint-config/commit/a00b40e4ebf911d590abea534e8fc098baf00418))
+* bump @babel/preset-react from 7.22.3 to 7.22.5 ([7dcff66](https://github.com/rowanmanning/eslint-config/commit/7dcff662aebbd864c4fb7089aa602a03aa3e2b4b))
+* bump eslint-plugin-jsdoc from 44.2.4 to 46.3.0 ([d661fca](https://github.com/rowanmanning/eslint-config/commit/d661fca54f444d84acbe930b2fbaa675de144bdd))
+
 ## [6.0.4](https://github.com/rowanmanning/eslint-config/compare/v6.0.3...v6.0.4) (2023-05-20)
 
 
