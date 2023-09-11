@@ -1,5 +1,16 @@
 # Changelog
 
+## [8.0.0](https://github.com/rowanmanning/eslint-config/compare/v7.0.3...v8.0.0) (2023-09-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop support for Node.js 16
+
+### Miscellaneous
+
+* drop support for Node.js 16 ([19618eb](https://github.com/rowanmanning/eslint-config/commit/19618eb109e696b3dec6804ddd84bc7fbba802e4))
+
 ## [7.0.3](https://github.com/rowanmanning/eslint-config/compare/v7.0.2...v7.0.3) (2023-09-11)
 
 
