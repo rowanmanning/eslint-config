@@ -1,5 +1,16 @@
 # Changelog
 
+## [7.0.3](https://github.com/rowanmanning/eslint-config/compare/v7.0.2...v7.0.3) (2023-09-11)
+
+
+### Bug Fixes
+
+* bump @babel/core from 7.22.9 to 7.22.17 ([a755a94](https://github.com/rowanmanning/eslint-config/commit/a755a944f5198cc51d17f4910fa809605232b3bd))
+* bump @babel/eslint-parser from 7.22.9 to 7.22.15 ([1552f18](https://github.com/rowanmanning/eslint-config/commit/1552f18a16aeffd7d4903b245135cb4b903dc457))
+* bump @babel/preset-react from 7.22.5 to 7.22.15 ([5997bd1](https://github.com/rowanmanning/eslint-config/commit/5997bd1edc083f954e315cfa6481c40804c4bfc1))
+* bump eslint-plugin-jsdoc from 46.4.4 to 46.5.1 ([c8cd7f8](https://github.com/rowanmanning/eslint-config/commit/c8cd7f86d25796e25c4dcb424a5a8f645c769343))
+* bump eslint-plugin-react from 7.33.0 to 7.33.2 ([ca812a3](https://github.com/rowanmanning/eslint-config/commit/ca812a3f2ef4148d1810bff6eb92a4a3dab23c7f))
+
 ## [7.0.2](https://github.com/rowanmanning/eslint-config/compare/v7.0.1...v7.0.2) (2023-07-25)
 
 
