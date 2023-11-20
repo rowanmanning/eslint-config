@@ -1,5 +1,16 @@
 # Changelog
 
+## [8.0.1](https://github.com/rowanmanning/eslint-config/compare/v8.0.0...v8.0.1) (2023-11-20)
+
+
+### Bug Fixes
+
+* bump @babel/core from 7.22.17 to 7.23.3 ([b334974](https://github.com/rowanmanning/eslint-config/commit/b3349743df073bc6f26cba2c6d444ab32cece070))
+* bump @babel/eslint-parser from 7.22.15 to 7.23.3 ([16e51cb](https://github.com/rowanmanning/eslint-config/commit/16e51cb6cce5bc76e16310a5d7af0518dacdee6d))
+* bump @babel/preset-react from 7.22.15 to 7.23.3 ([c114b31](https://github.com/rowanmanning/eslint-config/commit/c114b3124fcf33b31bc62e8b3cdf3a3bf5b0dbee))
+* bump @babel/traverse from 7.22.17 to 7.23.2 ([f4e101a](https://github.com/rowanmanning/eslint-config/commit/f4e101a757b454764cb568aab03bef5f669a8c09))
+* bump eslint-plugin-jsdoc from 46.5.1 to 46.9.0 ([97fc671](https://github.com/rowanmanning/eslint-config/commit/97fc671d249d9891de1a9573a82e64c1a13a2665))
+
 ## [8.0.0](https://github.com/rowanmanning/eslint-config/compare/v7.0.3...v8.0.0) (2023-09-11)
 
 
