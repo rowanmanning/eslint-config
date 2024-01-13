@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.0.2](https://github.com/rowanmanning/eslint-config/compare/v8.0.1...v8.0.2) (2024-01-13)
+
+
+### Bug Fixes
+
+* bump @babel/core from 7.23.3 to 7.23.7 ([013dafc](https://github.com/rowanmanning/eslint-config/commit/013dafc5757891061c9f4bb2febf96b21307e116))
+
 ## [8.0.1](https://github.com/rowanmanning/eslint-config/compare/v8.0.0...v8.0.1) (2023-11-20)
 
 
