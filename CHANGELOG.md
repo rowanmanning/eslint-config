@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.1.0](https://github.com/rowanmanning/eslint-config/compare/v8.0.2...v8.1.0) (2024-01-29)
+
+
+### Features
+
+* add official support for npm 10 ([8a2213a](https://github.com/rowanmanning/eslint-config/commit/8a2213a0b0e2513e294bbc924e57e57bdc76a95a))
+
 ## [8.0.2](https://github.com/rowanmanning/eslint-config/compare/v8.0.1...v8.0.2) (2024-01-13)
 
 
