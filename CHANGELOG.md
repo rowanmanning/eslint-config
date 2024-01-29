@@ -1,5 +1,18 @@
 # Changelog
 
+## [8.1.0](https://github.com/rowanmanning/eslint-config/compare/v8.0.2...v8.1.0) (2024-01-29)
+
+
+### Features
+
+* add official support for npm 10 ([8a2213a](https://github.com/rowanmanning/eslint-config/commit/8a2213a0b0e2513e294bbc924e57e57bdc76a95a))
+
+
+### Bug Fixes
+
+* bump @babel/core from 7.23.7 to 7.23.9 ([e3055f8](https://github.com/rowanmanning/eslint-config/commit/e3055f853fa208ba0a25550da23703762ba2b59f))
+* bump @babel/eslint-parser from 7.23.3 to 7.23.9 ([8c716a1](https://github.com/rowanmanning/eslint-config/commit/8c716a10722160cc46a5f59607768cd0577ccc19))
+
 ## [8.0.2](https://github.com/rowanmanning/eslint-config/compare/v8.0.1...v8.0.2) (2024-01-13)
 
 
